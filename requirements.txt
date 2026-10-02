@@ -1,0 +1,2 @@
+faster-whisper
+gradio>=5.0
